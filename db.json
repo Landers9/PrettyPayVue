@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "email": "abc1@gmail.com",
+      "telephone": "+22963584152",
+      "password": "azerty"
+    },
+
+    {
+      "id": 1,
+      "email": "abc2@gmail.com",
+      "telephone": "+22963484152",
+      "password": "azertyazerty"
+    }
+  ]
+}
